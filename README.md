@@ -1,7 +1,15 @@
+# Udacity Self-Driving Car Engineer Nanodegree
+
+## Project #7: Unscented Kalman Filter
+
+The goals of this project are the following:
+* estimate the 2D position and 2D velocity of a moving object of interest using an unscented Kalman filter
+* combine noisy LIDAR and RADAR data to obtain RMSE values below the tolerance outlined in the project rubric
+
+
+
 # Unscented Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
-
-In this project utilize an Unscented Kalman Filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower that the tolerance outlined in the project reburic. 
 
 This project involves the Term 2 Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases)
 
